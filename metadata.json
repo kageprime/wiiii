@@ -1,0 +1,6 @@
+{
+  "name": "TelePad Arcade",
+  "description": "Wii U-inspired second-screen game console and morphing smartphone controller platform featuring Phone Pong DX and Crypt of the Overlord.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
